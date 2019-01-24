@@ -1,0 +1,32 @@
+_repo: Unwelcomed-Visitor_58721
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Samachson, Joseph
+    aliases:
+    - Sterling, Brett
+    - Samachson, Joe
+    - Morrison, William
+    birthdate: 1906
+    deathdate: 1980
+    gutenberg_agent_id: '33434'
+    url: http://www.gutenberg.org/2009/agents/33434
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Samachson
+description: ''
+gutenberg_issued: '2019-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Unwelcomed Visitor
+url: http://www.gutenberg.org/ebooks/58721
